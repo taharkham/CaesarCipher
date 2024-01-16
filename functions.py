@@ -1,3 +1,4 @@
+# функция для шифрования слов
 # function for encode word :
 def encode_decode(word, alphabet, number, activity):
     word = list(word)
